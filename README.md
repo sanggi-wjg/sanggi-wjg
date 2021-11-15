@@ -1,32 +1,32 @@
-<h2 align="center">Teck Stack</h2>
+<h2>Teck Stack</h2>
 
-<p align="center">
+<p>
     Programming Language:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=yellow"/></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-3766AB?style=flat&logo=PHP&logoColor=yellow"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/GO-11B48A?style=flat&logo=GO&logoColor=yellow"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F5DF4D?style=flat&logo=Javascript&logoColor=orange"/></a>
 </p>
-<p align="center">
+<p>
     Framework:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-3766AB?style=flat&logo=Django&logoColor=yellow"/></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codeigniter-orange?style=flat&logo=Codeigniter&logoColor=red"/></a> 
 </p>
-<p align="center">
+<p>
     Database:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-3766AB?style=flat&logo=MySQL&logoColor=yellow"/></a> 
 </p>
-<p align="center">
+<p>
     OS:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=Ubuntu&logoColor=yellow"/></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/CentOS-gray?style=flat&logo=CentOS&logoColor=yellow"/></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Toast-blue?style=flat&logo=Toast&logoColor=skyblue"/></a> 
 </p>
-<p align="center">
+<p>
     CI/CD:
     
 </p>
-<p align="center">
+<p>
     ETC:
     
 </p>
