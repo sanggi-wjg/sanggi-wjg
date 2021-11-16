@@ -1,4 +1,4 @@
-<h2>Teck Stack</h2>
+<h2>Tech Stack</h2>
 
 <p>
     Programming Language:
@@ -19,16 +19,22 @@
 <p>
     OS:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=Ubuntu&logoColor=yellow"/></a> 
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/CentOS-gray?style=flat&logo=CentOS&logoColor=yellow"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/CentOS-363945?style=flat&logo=CentOS&logoColor=yellow"/></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Toast-blue?style=flat&logo=Toast&logoColor=skyblue"/></a> 
 </p>
 <p>
     CI/CD:
-    
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-363945?style=flat&logo=Github&logoColor=white"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-EFE1CE?style=flat&logo=Jenkins&logoColor=black"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&logoColor=skyblue"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nexus-11B48A?style=flat&logo=Nexus&logoColor=black"/></a> 
 </p>
 <p>
-    ETC:
-    
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-D2386C?style=flat&logo=Redis&logoColor=red"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=A0DAA9"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Fluentd-0072B5?style=flat&logo=Fluentd&logoColor=blue"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Prometheus-orange?style=flat&logo=Prometheus&logoColor=D2386C"/></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Grafana-363945?style=flat&logo=Grafana&logoColor=FDAC53"/></a> 
 </p>
 
 
