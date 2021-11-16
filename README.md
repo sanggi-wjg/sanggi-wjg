@@ -37,8 +37,9 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Grafana-363945?style=flat&logo=Grafana&logoColor=FDAC53"/></a> 
 </p>
 
+[![SangGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 뱃지
