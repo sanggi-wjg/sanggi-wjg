@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide=css,html&theme=tokyonight" />
 </a>
 
-
+BLOG : https://sanggi-jayg.tistory.com/
 
 <!--
 뱃지
