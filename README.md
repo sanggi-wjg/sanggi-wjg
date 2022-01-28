@@ -42,7 +42,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=prs&show_icons=true&theme=tokyonight" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
