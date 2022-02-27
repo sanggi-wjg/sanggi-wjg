@@ -8,7 +8,6 @@
     Sub Language:
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/GO-11B48A?style=flat&logo=GO&logoColor=yellow"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-3766AB?style=flat&logo=PHP&logoColor=yellow"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=yellow"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F5DF4D?style=flat&logo=Javascript&logoColor=orange"/></a>
 </p>
 <p>
