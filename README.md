@@ -1,4 +1,4 @@
-<h2>Tech Stack</h2>
+<!--<h2>Tech Stack</h2>
 
 <p>
     Main Language:
@@ -47,7 +47,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide=javascript,css,scss,html&theme=tokyonight" />
 </a>
-
+-->
 BLOG : https://sanggi-jayg.tistory.com/
 
 <!--
