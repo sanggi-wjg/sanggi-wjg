@@ -40,15 +40,17 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Grafana-363945?style=flat&logo=Grafana&logoColor=FDAC53"/></a> 
 </p>
 
+-->
+
+BLOG : https://sanggi-jayg.tistory.com/
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=prs&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=prs,contribs&show_icons=true&theme=tokyonight" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide=javascript,css,scss,html&theme=tokyonight" />
 </a>
--->
-BLOG : https://sanggi-jayg.tistory.com/
 
 <!--
 뱃지
