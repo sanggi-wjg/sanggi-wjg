@@ -1,3 +1,33 @@
+# Hello, I'm [Sanggi!](https://github.com/sanggi-wjg) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
+# 💫About Me :
+🔭 I’m currently working on my Skills.\
+ 🌱 I’m currently learning more about Backend Development.
+ 
+## 🌐 Socials:
+[![Blog](https://img.shields.io/badge/Blog-1769ff?logo=Blog&logoColor=white)](https://sanggi-jayg.tistory.com/) 
+
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanggi-wjg&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sanggi-wjg&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 <!--<h2>Tech Stack</h2>
 
 <p>
@@ -40,10 +70,6 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Grafana-363945?style=flat&logo=Grafana&logoColor=FDAC53"/></a> 
 </p>
 
--->
-
-BLOG : https://sanggi-jayg.tistory.com/
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide=prs,contribs&show_icons=true&theme=tokyonight" />
 </a>
@@ -51,6 +77,7 @@ BLOG : https://sanggi-jayg.tistory.com/
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide=javascript,css,scss,html&theme=tokyonight" />
 </a>
+-->
 
 <!--
 뱃지
