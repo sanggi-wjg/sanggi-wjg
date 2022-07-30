@@ -1,21 +1,55 @@
-# Hello, I'm [Sanggi!](https://github.com/sanggi-wjg) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
-# 💫About Me :
-🔭 I’m currently working on my Skills.\
- 🌱 I’m currently learning more about Backend Development.
- 
-## 🌐 Socials:
-[![Blog](https://img.shields.io/badge/Blog-1769ff?logo=Blog&logoColor=white)](https://sanggi-jayg.tistory.com/) 
+# 💫 About Me
+👍 Python 백엔드 개발자에요\
+🌱 Backend 개발에 대해서 공부하고 있어요\
+✨ FastAPI 같은 최신 기술에 관심 있어요\
+🤝 같이 미니 프로젝트 참여하실 분을 찾고 있어요
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 💌 Socials
+[![Tistory](https://img.shields.io/badge/Tistory-d0f4de.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://sanggi-jayg.tistory.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-9cf.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanggi-wjg)
+<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss)
+# 🛠 Tech Stack
+## Programming Language
+![Go](https://img.shields.io/badge/Go-29BEB0.svg?style=for-the-badge&logo=Go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-34495E.svg?style=for-the-badge&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-787CB5.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-## 🏆 GitHub Trophies
+## Framework
+![Codeigniter](https://img.shields.io/badge/Codeigniter-cd451e.svg?style=for-the-badge&logo=Codeigniter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-193e2f.svg?style=for-the-badge&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-329688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-338fce.svg?style=for-the-badge&logo=Gin&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-76b44d.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+
+## Database
+![MariaDB](https://img.shields.io/badge/MariaDB-0c2c62.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-206188.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ce2b26.svg?style=for-the-badge&logo=Redis&logoColor=white)
+
+## Infra
+![Docker](https://img.shields.io/badge/Docker-4092e2.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![GitHubAction](https://img.shields.io/badge/GitHubAction-3e89fa.svg?style=for-the-badge&logo=GitHubAction&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-2e913f.svg?style=for-the-badge&logo=Nginx&logoColor=white)
+![NHNCloud](https://img.shields.io/badge/NHNCloud-2a5bda.svg?style=for-the-badge&logo=NHNCloud&logoColor=white)
+
+## Others
+![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-8de346.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+
+<br><br>
+
+# 💛 GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br><br>
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanggi-wjg&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
