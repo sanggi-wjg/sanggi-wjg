@@ -41,8 +41,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-8de346.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
-<br><br>
-
 ## GitHub Projects
 [GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
 
