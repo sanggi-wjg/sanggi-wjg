@@ -42,13 +42,24 @@
 ![Swagger](https://img.shields.io/badge/Swagger-8de346.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ## GitHub Projects
-[GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
 
-[Code Playground](https://github.com/sanggi-wjg/my-ide)
+### [GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
+✔ It helps you to make GitHub Profile.
 
-[Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
+### [Code Playground](https://github.com/sanggi-wjg/my-ide)
+✔ Online Code Playground with Docker.
 
-[Docker Container Exporter](https://github.com/sanggi-wjg/docker-container-exporter)
+### [Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
+✔ It makes a chart based on stock.
+
+### [Docker Container Exporter](https://github.com/sanggi-wjg/docker-container-exporter)
+✔ Export metrics about Docker Container using Prometheus exporter.
+
+### [Color Print](https://github.com/sanggi-wjg/color_print)
+✔ Printing a colored text on terminal!
+
+### [Firefox Marco](https://github.com/sanggi-wjg/firefox_browser_macro)
+✔ Firefox browser macro on windows using selenium
 
 <br><br>
 
