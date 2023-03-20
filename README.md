@@ -46,8 +46,9 @@
 ### [GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
 ✔ It helps you to make GitHub Profile.
 
-### [Code Playground](https://github.com/sanggi-wjg/my-ide)
-✔ Online Code Playground with Docker.
+### [Code Execution API - Java](https://github.com/sanggi-wjg/my-ide-java) 
+### [Code Execution API - Python](https://github.com/sanggi-wjg/my-ide)
+✔ Code execition API
 
 ### [Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
 ✔ It makes a chart based on stock.
