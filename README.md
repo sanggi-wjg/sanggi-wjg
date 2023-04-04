@@ -57,7 +57,7 @@
 ✔ Export metrics about Docker Container using Prometheus exporter.
 
 ### [Color Print](https://github.com/sanggi-wjg/color_print)
-✔ Printing a colored text on terminal!
+✔ Printing a colored text on console!
 
 ### [Firefox Marco](https://github.com/sanggi-wjg/firefox_browser_macro)
 ✔ Firefox browser macro on windows using selenium
