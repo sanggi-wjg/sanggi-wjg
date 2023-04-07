@@ -1,9 +1,10 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
 # 💫 About Me
-👍 백엔드 개발자에요\
-🌱 Backend 개발에 대해서 공부하고 있어요\
-✨ 최신 기술에 관심 있어요
+👍 Backend 개발자에요\
+🌱 Backend, Database 등등 에 대해서 공부하고 있어요\
+✨ 최신이나 기존 기술 모두 관심 있어요
+
 
 ## 💌 Socials
 [![Tistory](https://img.shields.io/badge/Tistory-d0f4de.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://sanggi-jayg.tistory.com/)
