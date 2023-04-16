@@ -43,21 +43,21 @@
 
 ## GitHub Projects
 
-### [GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
-✔ It helps you to make GitHub Profile.
-
 ### [Code Execution API - Java](https://github.com/sanggi-wjg/my-ide-java) 
 ### [Code Execution API - Python](https://github.com/sanggi-wjg/my-ide)
 ✔ Code execition API
+
+### [GitHub Profile Maker](https://github.com/sanggi-wjg/gpm)
+✔ It helps you to make GitHub Profile.
+
+### [Python Thread Manager](https://github.com/sanggi-wjg/py-thread-manager)
+✔ Python Thread Manager
 
 ### [Docker Container Exporter](https://github.com/sanggi-wjg/docker-container-exporter)
 ✔ Export metrics about Docker Container using Prometheus exporter.
 
 ### [Color Print](https://github.com/sanggi-wjg/color_print)
 ✔ Printing a colored text on console!
-
-### [Python Thread Manager](https://github.com/sanggi-wjg/py-thread-manager)
-✔ Python Thread Manager
 
 ### [Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
 ✔ It makes a chart based on stock.
