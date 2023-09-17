@@ -8,7 +8,7 @@
 
 ## 💌 Socials
 [![Tistory](https://img.shields.io/badge/Tistory-d0f4de.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://sanggi-jayg.tistory.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-9cf.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanggi-wjg)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
 
 # 🛠 Tech Stack
