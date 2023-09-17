@@ -1,9 +1,9 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
 # 💫 About Me
-👍 Backend 개발자에요\
-🌱 Backend, Database 등등 에 대해서 공부하고 있어요\
-✨ 최신이나 기존 기술 모두 관심 있어요
+👍 안녕하세요. Backend 개발자에요.\
+🌱 언어 및 Database, Redis, Kafka에 대해 보다 활용하기 위해서 공부하고 있어요.\
+✨ 기존과 최신 기술 모두 중요하다 생각하고 관심 있어요.
 
 
 ## 💌 Socials
@@ -13,17 +13,19 @@
 
 # 🛠 Tech Stack
 ## Programming Language
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-29BEB0.svg?style=for-the-badge&logo=Go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-34495E.svg?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB5.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 ## Framework
-![Django](https://img.shields.io/badge/Django-193e2f.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-76b44d.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-338fce.svg?style=for-the-badge&logo=Gin&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-329688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-cd451e.svg?style=for-the-badge&logo=Codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/MySQL-206188.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -31,15 +33,17 @@
 ![Redis](https://img.shields.io/badge/Redis-ce2b26.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 ## Infra
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/Docker-4092e2.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![GitHubAction](https://img.shields.io/badge/GitHubAction-3e89fa.svg?style=for-the-badge&logo=GitHubAction&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![NHNCloud](https://img.shields.io/badge/NHNCloud-2a5bda.svg?style=for-the-badge&logo=NHNCloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-2e913f.svg?style=for-the-badge&logo=Nginx&logoColor=white)
 
 ## Others
 ![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-8de346.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## GitHub Projects
 
@@ -62,9 +66,6 @@
 ### [Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
 ✔ It makes a chart based on stock.
 
-### [Firefox Marco](https://github.com/sanggi-wjg/firefox_browser_macro)
-✔ Firefox browser macro on windows using selenium
-
 <br><br>
 
 # 💛 GitHub Statistics
@@ -82,6 +83,7 @@
 
 <!--
 뱃지
+https://ileriayo.github.io/markdown-badges/
 https://shields.io/
 
 아이콘
