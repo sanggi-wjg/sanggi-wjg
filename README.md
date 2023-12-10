@@ -2,7 +2,7 @@
 
 # 💫 About Me
 👍 안녕하세요. Backend 개발자에요.\
-🌱 언어 및 Database, Redis, Kafka에 대해 보다 활용하기 위해서 공부하고 있어요.\
+🌱 Language 및 Database, Redis, Kafka에 대해 보다 활용하기 위해서 공부하고 있어요.\
 ✨ 기존과 최신 기술 모두 중요하다 생각하고 관심 있어요.
 
 
@@ -36,13 +36,13 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/Docker-4092e2.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![NHNCloud](https://img.shields.io/badge/NHNCloud-2a5bda.svg?style=for-the-badge&logo=NHNCloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-2e913f.svg?style=for-the-badge&logo=Nginx&logoColor=white)
 
 ## Others
-![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## GitHub Projects
@@ -63,7 +63,7 @@
 ### [Color Print](https://github.com/sanggi-wjg/color_print)
 ✔ Printing a colored text on console!
 
-### [Stock Visualize](https://github.com/sanggi-wjg/stock_visualize)
+### [Stock Visualize](https://github.com/sanggi-wjg/my-stock)
 ✔ It makes a chart based on stock.
 
 <br><br>
