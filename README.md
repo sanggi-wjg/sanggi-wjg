@@ -24,8 +24,6 @@
 ![Gin](https://img.shields.io/badge/Gin-338fce.svg?style=for-the-badge&logo=Gin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-cd451e.svg?style=for-the-badge&logo=Codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/MySQL-206188.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -33,7 +31,7 @@
 ![Redis](https://img.shields.io/badge/Redis-ce2b26.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 ## Infra
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/Docker-4092e2.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -44,6 +42,7 @@
 
 ## Others
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## GitHub Projects
 
