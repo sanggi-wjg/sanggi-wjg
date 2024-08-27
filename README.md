@@ -1,9 +1,9 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
 # 💫 About Me
-👍 안녕하세요. Backend 개발자에요.\
-🌱 Language 및 Database, Redis, Kafka에 대해 보다 활용하기 위해서 공부하고 있어요.\
-✨ 기존과 최신 기술 모두 중요하다 생각하고 관심 있어요.
+😊 안녕하세요. Front 빼고 이것 저것 하기 좋아하는 Backend 개발자에요.\
+🌱 프레임워크, 언어 등 소프트 적인것 뿐만 아니라 아키텍쳐, 인프라 등 보다 딱딱한 것들도 적절한 사용을 위해서 알아가고 공부하고 있어요.\
+✨ 기존 기술과 기법들을 중요하다 생각하고 검증된 최신 기술들에 대해서도 중요하다 생각하고 관심 있어요.
 
 
 ## 💌 Socials
@@ -68,11 +68,11 @@
 <br><br>
 
 # 💛 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sanggi-wjg&hide_border=false&include_all_commits=false&count_private=true)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&hide_border=false)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss)
 
 <br><br>
 # 🏆 GitHub Trophies
