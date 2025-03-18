@@ -1,5 +1,5 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
-
+<!--
 # 💫 About Me
 😊 안녕하세요. Front 빼고 이것 저것 하기 좋아하는 Backend 개발자에요.\
 🌱 프레임워크, 언어 등 말랑한 것 뿐만 아니라 아키텍쳐, 인프라 등 등지고 딱딱한 것들도 적절한 사용을 위해서 알아가고 공부하고 있어요.\
@@ -77,7 +77,7 @@
 <br><br>
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanggi-wjg&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
 
 <!--
