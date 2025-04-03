@@ -1,4 +1,7 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
+
+![](https://komarev.com/ghpvc/?username=sanggi-wjg&style=flat-square&base=10&abbreviated=true)
+
 <!--
 # 💫 About Me
 😊 안녕하세요. Front 빼고 이것 저것 하기 좋아하는 Backend 개발자에요.\
