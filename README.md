@@ -1,6 +1,6 @@
 # Hello! [sanggi-wjg](https://github.com/sanggi-wjg) 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
 
-![](https://komarev.com/ghpvc/?username=sanggi-wjg&style=flat-square&base=10&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sanggi-wjg&style=flat-square&abbreviated=true)
 
 <!--
 # 💫 About Me
