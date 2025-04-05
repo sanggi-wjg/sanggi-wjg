@@ -75,13 +75,14 @@
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanggi-wjg&hide_border=false)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss,jupyter%20notebook)
 
 <br><br>
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanggi-wjg&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 -->
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggi-wjg&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=javascript,html,css,scss,jupyter%20notebook)
 
 <!--
 뱃지
